@@ -12,5 +12,6 @@
 >```mv file.txt /Documents```
 
 <br>
+<hr />
 
 
