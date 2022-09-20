@@ -1,5 +1,5 @@
 # Archlinux terminal commands
-<hr />
+
 
 ## move files
 
@@ -12,5 +12,5 @@
 >```mv file.txt /Documents```
 
 <br>
-<hr />
+
 
